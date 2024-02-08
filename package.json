@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
-    "@types/react": "18.2.48",
-    "@types/react-dom": "18.2.18",
+    "@types/react": "18.2.55",
+    "@types/react-dom": "18.2.19",
     "@types/node": "20.11.16",
     "appwrite": "^13.0.0",
     "eslint": "8.56.0",
