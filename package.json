@@ -16,7 +16,7 @@
     "appwrite": "^21.0.0",
     "eslint": "8.57.1",
     "eslint-config-next": "15.5.9",
-    "autoprefixer": "10.4.22",
+    "autoprefixer": "10.4.23",
     "next": "15.5.9",
     "openai": "^6.0.0",
     "postcss": "8.5.6",
