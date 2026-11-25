@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
-    "@types/react": "18.3.31",
+    "@types/react": "18.3.32",
     "@types/react-dom": "18.3.7",
     "@types/node": "26.6.6",
     "appwrite": "^29.0.0",
